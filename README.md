@@ -1,2 +1,2 @@
-# loyverse-amazon-integration
-Seamlessly integrate Loyverse with Amazon using SKUPlugs to automate inventory, orders, and boost retail efficiency.
+# Loyverse Amazon integration
+Loyverse Amazon integration with SKUPlugs helps retailers automate inventory, sync orders, and manage products effortlessly across platforms. By connecting your Loyverse POS with Amazon, SKUPlugs ensures real-time data updates, reducing manual work and errors. This integration improves efficiency, prevents overselling, and streamlines operations. It enables businesses to expand their online presence while maintaining accurate stock and order management, making it an ideal solution for retailers looking to grow and simplify multi-channel selling.
